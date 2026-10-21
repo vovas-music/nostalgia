@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/invitation
 ## Files
 
 - `invitation_mix.mp3` — the mix, unmastered, cut from the album file at 68.24 s.
-- `invitation.mp3` — the master, cut at the same point (V0).
+- `Полуживые - Приглашение в путешествие.mp3` — the master, cut at the same point (V0).
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
